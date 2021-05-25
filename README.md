@@ -1,0 +1,2 @@
+# Crypto
+Very initial strategy
